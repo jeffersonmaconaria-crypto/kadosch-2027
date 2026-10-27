@@ -1,5 +1,6 @@
 /* Transcrição do calendário institucional fornecido pelo Conselho. Sem horários finais presumidos. */
 window.KADOSCH_BASE = [
+ {id:'2026-11-17',data:'2026-11-17',hora:'20:00',grau:22,tipo:'magna',titulo:'Sessão Magna de Iniciação no Grau 22',ordem:'Iniciação no Grau 22',local:'Acácia Cuiabana',observacao:'Serão Iniciados no Grau 22 os Irmãos: ADNILSON ARRUDA; ARMANDO ALBERNAZ ALBUQUERQUE; FERNANDO CÉSAR PAIM; JORGE FERNANDO ASCENCIO; JOSÉ NILDO APARECIDO PEDRO; e RICARDO TOMASI PIGATTO.',instrucao:''},
  {id:'2027-01-25',data:'2027-01-25',hora:null,grau:null,tipo:'administrativo',titulo:'Não haverá sessão',ordem:'Vencimento do interstício do Grau 30. Encaminhar ao Consistório para iniciação no Grau 31.',local:null,observacao:'',instrucao:''},
  {id:'2027-02-16',data:'2027-02-16',hora:'20:00',grau:22,tipo:'ordinaria',titulo:'Sessão ordinária • Grau 22',ordem:'A definir',local:'Acácia Cuiabana',observacao:'',instrucao:''},
  {id:'2027-03-16',data:'2027-03-16',hora:'20:00',grau:22,tipo:'ordinaria',titulo:'Sessão ordinária • Grau 22',ordem:'A definir',local:'Acácia Cuiabana',observacao:'',instrucao:''},

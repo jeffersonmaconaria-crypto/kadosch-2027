@@ -1,4 +1,4 @@
-# Conselho Kadosch Mato Grosso — Programação 2027
+# Conselho Kadosch Mato Grosso — Programação 2026/2027
 
 Site estático responsivo, instalável como PWA, baseado no documento institucional fornecido. Dados originais transcritos para `dados-2027.js`.
 
@@ -23,7 +23,7 @@ Site estático responsivo, instalável como PWA, baseado no documento institucio
 - 18/08/2027 é uma quarta-feira e foi **preservado** como no documento, sem correção automática.
 - A iniciação em novembro consta como **possível**. A instrução e a Ordem do Dia não foram inventadas.
 - Não há hora de término no documento. O download `.ics` conserva apenas `DTSTART` e informa essa ausência na descrição. Alguns aplicativos de calendário atribuem uma duração padrão por conta própria. No Google Agenda, é oferecida uma duração **temporária de 1 hora para permitir a criação do formulário**, devendo o usuário ajustá-la antes de salvar. Essa duração não integra a programação oficial.
-- O contador considera o fuso de Cuiabá (UTC−4) conforme as regras vigentes para 2027. Caso ocorra alteração legal do fuso ou do horário de verão, atualize `epochAtCuiaba` no `app.js`.
+- O contador considera o fuso de Cuiabá (UTC−4) conforme as regras vigentes para 2026/2027. Caso ocorra alteração legal do fuso ou do horário de verão, atualize `epochAtCuiaba` no `app.js`.
 - O painel administrativo é um **editor local**, não um backend com autenticação; não requer senha. Para edição colaborativa segura em tempo real é necessário um serviço externo autenticado.
 - Os dois emblemas foram extraídos do próprio documento Word e estão em `assets/`.
 - Sem infraestrutura de notificações push; comunicados são exibidos no site. O PWA opera offline depois da primeira visita.
